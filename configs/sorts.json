@@ -1,5 +1,6 @@
 {
     "": [
+        "2021-05-20-anderson.md", 
         "about.md", 
         "_includes", 
         "_layouts", 
@@ -12,27 +13,29 @@
         "tools"
     ], 
     "__positions": {
-        "_sass": 5, 
-        "docs": 7, 
-        "_posts": 4, 
-        "_layouts": 3, 
-        "about.md": 1, 
-        "_includes": 2, 
-        "tools": 10, 
-        "test": 9, 
-        "docker": 6, 
-        "screenshots": 8
+        "_sass": 6, 
+        "2021-05-20-anderson.md": 1, 
+        "_posts": 5, 
+        "_layouts": 4, 
+        "about.md": 2, 
+        "_includes": 3, 
+        "tools": 11, 
+        "docs": 8, 
+        "test": 10, 
+        "docker": 7, 
+        "screenshots": 9
     }, 
     "__raw_positions": {
-        "_sass": 5, 
-        "docs": 7, 
-        "_posts": 4, 
-        "screenshots": 8, 
-        "test": 9, 
-        "_includes": 2, 
-        "tools": 10, 
-        "about.md": 1, 
-        "docker": 6, 
-        "_layouts": 3
+        "_sass": 6, 
+        "2021-05-20-anderson.md": 1, 
+        "_posts": 5, 
+        "screenshots": 9, 
+        "test": 10, 
+        "_includes": 3, 
+        "tools": 11, 
+        "docs": 8, 
+        "about.md": 2, 
+        "docker": 7, 
+        "_layouts": 4
     }
 }
