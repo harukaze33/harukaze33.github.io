@@ -16,6 +16,7 @@
         "docs": 7, 
         "_posts": 4, 
         "_layouts": 3, 
+        "_posts/2021-05-20-anderson.md": 4001, 
         "about.md": 1, 
         "_includes": 2, 
         "tools": 10, 
@@ -23,10 +24,14 @@
         "docker": 6, 
         "screenshots": 8
     }, 
+    "_posts": [
+        "2021-05-20-anderson.md"
+    ], 
     "__raw_positions": {
         "_sass": 5, 
         "docs": 7, 
         "_posts": 4, 
+        "_posts/2021-05-20-anderson.md": 1, 
         "screenshots": 8, 
         "test": 9, 
         "_includes": 2, 
